@@ -1,2 +1,12 @@
+# voeg een dummy comment toe:
 flask==3.0.0
 gunicorn==21.2.0
+requests
+pandas
+openpyxl
+beautifulsoup4
+selenium
+openai
+python-dotenv
+
+# force rebuild
